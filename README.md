@@ -9,3 +9,30 @@ https://www.youtube.com/watch?v=MyRh0W6M0TU
 
 ![Screenshot_5](https://github.com/user-attachments/assets/0e4d73b8-c379-4e16-bd72-d22da9b679d2)
 
+ILI9320 
+
+ILI9325 
+
+ILI9328 
+
+ILI9331 
+
+SSD1298 
+
+SSD1289 
+
+ST7781 
+
+LGDP4531 
+
+SPFD5408B 
+
+R61505U 
+
+HX8347D 
+
+HX8347A 
+
+LGDP4535 
+
+SSD2119
