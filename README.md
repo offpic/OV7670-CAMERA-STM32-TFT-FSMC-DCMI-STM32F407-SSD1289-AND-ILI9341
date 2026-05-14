@@ -1,4 +1,4 @@
-# OV7670-CAMERA-STM32-TFT-FSMC-DCMI-STM32F407-ILI9341  
+
 
 
 https://www.youtube.com/watch?v=MyRh0W6M0TU
